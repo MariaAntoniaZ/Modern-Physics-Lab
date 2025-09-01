@@ -1,7 +1,11 @@
-Universidad de los Andes
-Laboratorio de Física Moderna
-M. Antonia Zúñiga
-Efecto Fotoeléctrico
+Universidad de los Andes; 
+
+Laboratorio de Física Moderna; 
+
+M. Antonia Zúñiga; 
+
+Efecto Fotoeléctrico; 
+
 
 El archivo consiste en el análisis de datos de frecuencia vs. voltaje para 4 diferentes longitudes de onda y para 4 diferentes intensidades de luz. 
 Se recopilan dichos datos y se analiza: 
